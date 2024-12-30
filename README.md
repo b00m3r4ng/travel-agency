@@ -1,4 +1,4 @@
-# ***Relax Tropical Travel***
+<h1 align="center">Relax Tropical Travel</h1>
 
 [liveLink](https://test-relaxtropicaltravel.netlify.app/)
 <p align="center">
